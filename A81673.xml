@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A prayer or petition for peace November 22, 1644.</title>
+            <author>Eleanor, Lady, d. 1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81673</idno>
+            <idno type="STC">Wing D2001</idno>
+            <idno type="STC">ESTC R231955</idno>
+            <idno type="EEBO-CITATION">99897640</idno>
+            <idno type="PROQUEST">99897640</idno>
+            <idno type="VID">133313</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81673)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133313)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2513:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A prayer or petition for peace November 22, 1644.</title>
+                  <author>Eleanor, Lady, d. 1652.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1644 [i.e. 1649?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: 1649.</note>
+                  <note>Place and date of publication from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prayers for peace --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133313:1" rendition="simple:additions"/>
+            <p>A Prayer or Petition FOR PEACE.</p>
+            <p>November 22. 1644.</p>
+            <p>Behold, your houſe is left unto you deſo<g ref="char:EOLhyphen"/>late; And verily ye ſhall not ſee me, till ye ſay, Bleſſed is he that cometh in the Name of the Lord. <add>without whom yee can Doe Nothing.</add>
+            </p>
+            <p>Printed in the Year, 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="prayer">
+            <pb n="2" facs="tcp:133313:2"/>
+            <head>A PRAYER &amp; PETITION FOR <hi>PEACE.</hi>
+            </head>
+            <byline>By the Lady <hi>Eleanor.</hi>
+            </byline>
+            <p>O Lord, the great and dreadful God, as we have ſinned deeply and offended, guilty of no leſs then open Rebellion, by excluding thee, fleeing from thy preſence with one voyce (as it were) <hi>We will not have this man to reign over us</hi> (or) <hi>He defers his coming,</hi> as others; Even departed from thy Precepts and Iudgements ſet before us: ſo here proſtrate before the foot-ſtool of thy Throne, implore ne<g ref="char:EOLhyphen"/>vertheleſs pardon and forgiveneſs.</p>
+            <p>
+               <pb n="3" facs="tcp:133313:2"/>
+For this no ſtoln or ſecret tranſgreſ<g ref="char:EOLhyphen"/>ſion committed, but with a high hand; and ſo much the rather preſuming on this acceſs, becauſe hitherto the vul<g ref="char:EOLhyphen"/>gar (the burthen and heat of the day though theirs) thoſe ſheep yet not guilty or acceſſary to this treſpaſs or capital Crime, or of thy return op<g ref="char:EOLhyphen"/>poſed, as manifeſt in hearkning not to the loud voyces of the Propets accom<g ref="char:EOLhyphen"/>pliſhed thy Meſſengers: But to our Kings, Princes, Heads and Rulers, which appertains, ſo ſtraitly com<g ref="char:EOLhyphen"/>manded, ſaying, <hi>What I ſay unto you, I ſay unto all, Watch;</hi> the <hi>Gentiles</hi> watch<g ref="char:EOLhyphen"/>word alſo charged in readineſs to be; and ſigns of the time they not them diſcerning, ſuch and ſuch expreſs evi<g ref="char:EOLhyphen"/>dent Signs and Tokens, haſte, watch'd over them, as ſinc ethis a Nation, or
+<pb n="4" facs="tcp:133313:3"/>
+under the whole Heaven. the like un<g ref="char:EOLhyphen"/>known, witneſs, The Iriſh Maſſacres VVinter flight, and Sabbath journey, thoſe bloody peſtilent Vials, ſo vio<g ref="char:EOLhyphen"/>lently poured out (without doubt) not ſince the Flood as in this preſent Century.</p>
+            <p>Thus neither (awakened or) taking warning (by Forraign Nations) as Beacons lighted our neighbors houſes ſet on fire firſt, like <hi>Jacob</hi>'s ſetting in the front the handmaids and their chil<g ref="char:EOLhyphen"/>dren: whichalarms ſo lightly weigh<g ref="char:EOLhyphen"/>ed, til ſuddenly at laſt, like <hi>Sampſons</hi> ſe<g ref="char:EOLhyphen"/>venfold new Cords and green withs, all pluckt aſunder when linked ſo faſt and knit, <hi>France</hi> with <hi>Great Britain, Spain</hi> with <hi>France, Germany</hi> with <hi>Spain;</hi> together with theſe late married Iſles or united Kingdoms, now in wi<g ref="char:EOLhyphen"/>dows
+<pb n="5" facs="tcp:133313:3"/>
+forlorn woful Eſtate, or worſe, as divorced; ſometime that as had it been a new world, with ſuch <hi>Creations</hi> flouriſhing, &amp; Titles all new <hi>Names,</hi> even walking like days of old, alſo be<g ref="char:EOLhyphen"/>come as thoſe, when God repented he made <hi>Man,</hi> brought to a like Ebbe or fall, as thoſe inſaſciable Gyants, Great <hi>Britains Babel</hi> Towering thoughts confounded.</p>
+            <p>And now behold, O Lord, through a high and heavy hand abaſed and ſo low brought, humbled to aſhes and ſackcloth, from the higheſt to the low<g ref="char:EOLhyphen"/>eſt; then tread not on a worm, break not the bruiſed reed, the wounded ſmite them not; but hear us out of the deep, O thou our Anchor, hope and preſent help, ready to be conſumed and ſwallowed up, if thou calm not
+<pb n="6" facs="tcp:133313:4"/>
+and aſſwage thoſe working tempeſtu<g ref="char:EOLhyphen"/>ous Seas, through unruly raging winds let looſe, wrought and contri<g ref="char:EOLhyphen"/>ved; And ſo with him praying in his poſture, <hi>Elijah,</hi> when as without <hi>Rain</hi> ſo long, forty two Moneths (that pro<g ref="char:EOLhyphen"/>phetical Number<g ref="char:punc">▪</g>preſt ſo much, of Three years and a half) he bowing himſelf double, or kneeling on his head; alſo behold ſuch our Eſtate turned upſide down, ſince the year 1642. defer us not theſe miſerable Iſles and Kingdoms of ours, whoſe Store<g ref="char:EOLhyphen"/>houſes exhauſted, like thoſe Rivers dryed up, and like the dead Trees, burnt up our Nation and Habitation, torn between two She-bears, like thoſe Forty two ungratious Infants.</p>
+            <p>To conclude (O forſake us not! thou of uſpeakable Mercy) cauſe thy
+<pb n="7" facs="tcp:133313:4" rendition="simple:additions"/>
+face to ſhine upon us, for the Lords ſake, our alone Saviour Ieſus Chriſt, made of the womans ſeed according to the fleſh: A woman making her firſt witneſs of the reſurrection and <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ful tidings to the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>: Let thy mighty voyce be heard, that ſpeakeſt ſometime to the Fiſh, the Fig-tree, the Deaf, the Dead, and very Devils ſubjects; And at whoſe motion the Sun and Moon moved not, ſtood ſtill, heard him; and turneſt the hard Rock into ſtanding waters, &amp;c. alſo the waters of this city, heal them; ſay the word and it is DONE, that henceforth let there be no more DEATH, no more Kil<g ref="char:EOLhyphen"/>ling and Slaying, ſtay thy Hand She beſeeches thee.</p>
+         </div>
+         <div type="prayer">
+            <pb n="8" facs="tcp:133313:5"/>
+            <head>A Prayer or Letter for the Peoples Converſion and Deliverance from their Diſtraction, <hi>Iune</hi> 1649.</head>
+            <p>ANd O Lord of Sabbaths, our King, the God of Hoſts ſitting between the winged Cherubims, en<g ref="char:EOLhyphen"/>cloſing thy glorious Throne; That without delay vouchſafeſt to hear the humble addreſs of thy Handmaid, and the waters according held of our Brittiſh <hi>Jericho,</hi> witneſs the very next moneth, <hi>Decemb.</hi> the 5<hi rend="sup">th</hi> 
+               <hi>Anno</hi> 1644. a conjuring Letter from the otherſide, as would anſwer at the day of Iudge<g ref="char:EOLhyphen"/>ment the contrary, &amp;c. to lay aſide Arms, whereas about three moneths after, the Enemy waxt at thy con<g ref="char:EOLhyphen"/>ſuming preſence like melting wax, calling to Rocks and Hills, or fleeing to hide them were put to flight: He
+<pb n="9" facs="tcp:133313:5"/>
+vaniſhed in that faſhion diſguiſed, a<g ref="char:EOLhyphen"/>mazing thoſe that knew him, ſigned with the years of thy right arm, 1645. owing ſince the horrible deſign <hi>Anno</hi> 1605. <hi>November</hi> the 5<hi rend="sup">th</hi> which facti<g ref="char:EOLhyphen"/>on (he the four and twentieth of thoſe Alban Elders, proſtrating his Crown ſo low) combined with.</p>
+            <p>And the Sword of VVar ſheath'd thus, as when <hi>Elias</hi> the <hi>Prophet</hi> his Supplication preſented, juſt three years &amp; ſix months after their depart<g ref="char:EOLhyphen"/>ing the City, he in that maner led in a ſtring, from 1641. <hi>January,</hi> until 1645. <hi>June,</hi> that blow before his downfal. Notwithſtanding, Iuſtice her Sword dravvn ſince Kings, Princes, Head-Rulers, going to wrack, great Trees felled down, as well as thoſe of lower growth amended; like that reſtleſs
+<pb n="10" facs="tcp:133313:6"/>
+mans Eſtate, <hi>taking unto him ſeven ſpi<g ref="char:EOLhyphen"/>rits more unſufferable,</hi> after the Houſe ſwept and adorned, the Epilogue or End worſe then the beginning, point<g ref="char:EOLhyphen"/>ing to the Spiritual Function; eſpeci<g ref="char:EOLhyphen"/>ally, <hi>ſeeking high places, earthly prefer<g ref="char:EOLhyphen"/>ment, whereat all aym.</hi>
+            </p>
+            <p>Then here croaching at thy bleſſed feet, for a bleſsing on the Iubiles inſu<g ref="char:EOLhyphen"/>ing year: O heavenly bounty, royal mercy, greater then <hi>Solomons</hi> exceed<g ref="char:EOLhyphen"/>ing fames report, ſuffices we have bin and are of thy Iuſtice, not wanting an open example, <hi>a hiſſiug to all Nations,</hi> guilty of no petty Treaſon, thine own Servants and Citizens, <hi>Shuting thee out, conſpiring againſt thee;</hi> outed by diſloyal Tenants: with thoſe Hus<g ref="char:EOLhyphen"/>bandman alſo ſaying, <hi>the Inheritance ſhall be ours, to us and our heirs;</hi> accom<g ref="char:EOLhyphen"/>pliſhed ſigns and tokens when, the
+<pb n="11" facs="tcp:133313:6" rendition="simple:additions"/>
+Creation groaning to be delivered, accompanied with the peoples voices or diſtempers reſtored to their old li<g ref="char:EOLhyphen"/>berty: <hi>Kingdom againſt Kingdom,</hi> wit<g ref="char:EOLhyphen"/>neſs, <hi>brethren Nations ſtrugling like</hi> Eſau <hi>and</hi> Iacob, <hi>one houſe ſtorming the other,</hi> the Devil the old Serpent, for his part ſtorming too, his time becauſe knows of no longer continuance; a day of publique Thankſgiving, deſerving rather then ſitting up their own horn, or to be admired of the world.</p>
+            <p>
+               <hi>How is it then that they do not under<g ref="char:EOLhyphen"/>ſtand, blaſpheme thy name ſo nigh:</hi> rave on the world; notwithſtanding, <hi>What have we to do with thee, O Jeſus,</hi> con<g ref="char:EOLhyphen"/>jured before the time, <hi>to torment them not,</hi> both ſex diſcovering, <hi>like the dog returnd to his excrement, and Sow to the mire,</hi> how cleanſed from filth, or in grace growing up, how long the grace<g ref="char:EOLhyphen"/>leſs
+<pb n="12" facs="tcp:133313:7"/>
+world in theſe budding times, alſo beſotted, look back with <hi>Lots</hi> wife, to a ſink of ſin and corruption, with whoſe inceſstious Daughters the Kings of the Earth matched, for the Mothers ſake diſinherited, they and their heirs referred to their ſalique ſlaviſh Law, wreſting that, <hi>That the Lillies ſpin not,</hi> &amp;c. as the pillar diſplays <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+            <p>VVith his Play-houſe for another whether not recorded in <hi>Ahabs</hi> reign by our Scotiſh Bethmite, alſo (as it were) execrable, <hi>Ierichos</hi> edifice Ere<g ref="char:EOLhyphen"/>cted: <hi>The foundation laid in his eldeſt Son, and the gates in his yongeſt ſon, ex<g ref="char:EOLhyphen"/>ecu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed at the gate;</hi> that after demoliſhed thoſe cages, or Moneſtaries of theirs, for an acknowledgment of the pow<g ref="char:EOLhyphen"/>der plots eſcape, dedicated that Mon<g ref="char:EOLhyphen"/>ſter everlaſting like Theator, to the Devil for his Sabbath-ſervice, and o<g ref="char:EOLhyphen"/>ther ſuch like.</p>
+            <p>
+               <pb n="13" facs="tcp:133313:7"/>
+New <hi>Jeruſalems</hi> precious founda<g ref="char:EOLhyphen"/>tions and gates, ought rather much to have looked after, or to have conſi<g ref="char:EOLhyphen"/>dered the Arks building, which cen<g ref="char:EOLhyphen"/>tury the ſeventeenth, we then were en<g ref="char:EOLhyphen"/>tred; the Ark as in length Three hundred cubits meaſured out by the days of the year, ſo in breadth fifty, anſwerable to the weeks thereof; the hight of it thirty cubits, according to the days of the moneth, &amp;c. So teach us to number ours, the ſum of it.</p>
+            <p>That merciful Lord, except infu<g ref="char:EOLhyphen"/>ſed ſpecial grace: Since ſo it is, as de<g ref="char:EOLhyphen"/>rive their Name, from <hi>BRUTE, So are they,</hi> may as well ſpeak to the Aſs and Adar to hear, <hi>What the Spirit ſaith unto the churches,</hi> or to cauſe by means of a ſtick or rod, caſt in an Ax to ſwim, grown (thou ſeeſt) ſo brutiſh and blockiſh, well ſhadowed out in
+<pb n="14" facs="tcp:133313:8"/>
+ſeeing men like Trees walking: with<g ref="char:EOLhyphen"/>out which from above avails as much, as before the Scriptures ſpeaking in the vulgar language: <hi>That bleſsing although not equivolent to the former; how hear we every man in his own lan<g ref="char:EOLhyphen"/>guage, we born,</hi> &amp;c. yet a door, not re<g ref="char:EOLhyphen"/>mote therefrom.</p>
+            <p>From whence emboldned do beg, give them leave like as when bitten by fiery Serpents, thoſe vipers; by another beheld in the ſame likeneſs were healed; ſo by theſe leaves taken from a womans hand, by them <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> (as it were) live may for ever: They by reaſon of their knowledge puft up hitherto, even of times and ſeaſons miſtery to take their fill, not in ſeaſon till the evening of time this laſt ages.</p>
+            <p>And ſince to have knowledge of the diſeaſe, though the firſt ſtep to reco<g ref="char:EOLhyphen"/>very
+<pb n="15" facs="tcp:133313:8"/>
+ſuffices not: The Medicine if not attained, give them the Spirit of diſcerning, ſince come to maturity the Tree of Life, a qualification for of our firſt parents expedition, the tree reſer<g ref="char:EOLhyphen"/>ved, that caſting an eye upon the Map of the world that then was, the Ark Baptiſms figure, whereby to meaſure or parallel the Goſpels pilgrimage and the Floods age together, lifting up the ſame voice, the ſwelling Seas ſound<g ref="char:EOLhyphen"/>ing their alarm, climbing over Rocks and Mountains, beſides an univerſal flood a year or two ago, over the face of the earth, told then before, <hi>There ſhal be ſigns in tht Heavens, in the Sun and Moon, and in the Stars,</hi> the Sea roar<g ref="char:EOLhyphen"/>ing, people at their wits end diſtract<g ref="char:EOLhyphen"/>ed, &amp;c. witneſs this ſign, A new Star, as ſeen in the Eaſt, the one 74 years before <hi>Ieruſalems</hi> deſtruction or judg<g ref="char:EOLhyphen"/>ment,
+<pb n="16" facs="tcp:133313:9" rendition="simple:additions"/>
+ſo the other in <hi>Caſsiopei</hi> its a<g ref="char:EOLhyphen"/>ſpect or influence to the great Year 1644. extended <hi>Rev.</hi> 7, 14, 21. refer'd to it; VVhich Meſſenger Star likewiſe appeared ſeventy four years before our being entred into the very day of judg<g ref="char:EOLhyphen"/>ment, with no ordinary apparitions in the Heavens, <hi>The powers of Heaven and Earth ſhaken both.</hi>
+            </p>
+            <p>So look upon us amended Lord, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ck-<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rd Spring vvith thoſe ungrateful graceleſs Lepers (asked) <hi>Where the nine,</hi> &amp;c. curſing hitherto, vvhere thou bleſſeſt, ſuch returns. O ſend down upon the time to come, (though have ſinned a great ſin) a bleſ<g ref="char:EOLhyphen"/>ſed ſhower of commiſeration for which ſo much. And for this ſtollen touch, as vertue when gone from thee, 1649.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
